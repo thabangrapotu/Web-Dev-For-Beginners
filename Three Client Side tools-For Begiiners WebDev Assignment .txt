@@ -1,0 +1,25 @@
+Beginners Web Development Assignment - Client-side tooling
+
+<Three Client-side tools, why a web developer would use it, the category they fall into and documentation>
+<1.>
+Client-side tool: IntelliSense
+? web developer would use it: is a code-completion aid that includes a number of features: List Members, Parameter Info, Quick Info, and Complete Word. 
+Catergory it fall into: Safety net
+Documentation: https://learn.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2022
+<\1.>
+<2.>
+Client-side tool: CodeLens 
+? web developer would use it: lets you stay focused on your work while you find out what happened to your code–without leaving the editor. You can find references to a piece of code, changes to your code, linked bugs, work items, code reviews, and unit tests.
+Catergory it fall into: Safety net
+Documentation: https://learn.microsoft.com/en-us/visualstudio/ide/find-code-changes-and-other-history-with-codelens?view=vs-2022
+<\2.>
+<3.>
+Client-side tool: Team Foundation Version Control
+? web developer would use it: Version control systems consist of software that helps you track changes you make in your code over time. As you edit your code, you tell the version control system to take a snapshot of your files. 
+Catergory it fall into: Source Code Control
+Documentation: https://learn.microsoft.com/en-us/azure/devops/repos/tfvc/?view=azure-devops
+<\3.>
+<\Three Client-side tools and a web developer would use it>
+
+
+
