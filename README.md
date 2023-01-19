@@ -1,6 +1,6 @@
 **Focus:**
 
-This is assignments for all activities associated with the Web_Dev_For_Beginners course. It's a great kick start to learning and practicing basics in WebDevelopmentto help advance in Web Development space.
+This is assignments for all activities associated with the *Web_Dev_For_Beginners course*. It's a great kick start to learning and practicing basics in WebDevelopmentto help advance in Web Development space.
 
 **Prerequisite:**
 
