@@ -13,3 +13,18 @@
 **Community and behavioral expectations.**
 
   [Refer](https://www.sbsd.k12.ca.us/Page/4679)
+  
+ **PrereQuisites:**.
+ 
+  + 📰Install Edge browser if not installed.
+  - 🎵Install any window media player if not installed.
+    
+ **View Test Results**.
+ 
+  - 📰Open [Test Results (Overview_Report)](https://sbvservices.sharepoint.com/:u:/r/sites/ITQualityAssurance/Shared%20Documents/General/Sign%20Off%20Forms/ISA/Patches/SQL%202019%20Patches/Test%20results/SIT/Transaction%20Results%20%20(Overview_Report).html.data?csf=1&web=1&e=XWFfoP) ,to view the test result report in xml and demo format with captions.
+  + 📷Open [Test Results (Images)](https://sbvservices.sharepoint.com/:f:/r/sites/ITQualityAssurance/Shared%20Documents/General/Sign%20Off%20Forms/ISA/Patches/SQL%202019%20Patches/Test%20results/SIT/Transaction%20Results%20(Images)?csf=1&web=1&e=5o2GzB), to view the test results captions.
+  - 🎵Open [Test Results (Videos](https://sbvservices.sharepoint.com/:f:/r/sites/ITQualityAssurance/Shared%20Documents/General/Sign%20Off%20Forms/ISA/Patches/SQL%202019%20Patches/Test%20results/SIT/Transaction%20Results%20(Videos)?csf=1&web=1&e=7R9PC8), to view test result demo.
+  
+  Note:.
+  
+  + ⚠️_Ignore but don't delete any file prefixed "_".
